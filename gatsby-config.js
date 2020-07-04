@@ -5,20 +5,9 @@ module.exports = {
       options: {},
     },
   ],
-  // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
-    social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
-      },
-    ],
+    title: `Yet Another Recruiter`,
+    author: `Alexandr Maximov`,
+    description: `Jmenuji se Alexandr Maximov a jsem softwarový inženýr. Pomáhám spojit firmy a IT odborníky.`,
   },
 }
